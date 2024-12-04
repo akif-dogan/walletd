@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/wallet"
 	"go.thebigfile.com/core/types"
 )
 

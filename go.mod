@@ -1,4 +1,4 @@
-module go.sia.tech/walletd
+module go.thebigfile.com/walletd
 
 go 1.23.1
 

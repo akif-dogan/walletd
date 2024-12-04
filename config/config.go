@@ -1,6 +1,6 @@
 package config
 
-import "go.sia.tech/walletd/wallet"
+import "go.thebigfile.com/walletd/wallet"
 
 type (
 	// HTTP contains the configuration for the HTTP server.

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/wallet"
 	"go.thebigfile.com/core/consensus"
 	"go.thebigfile.com/core/types"
 )

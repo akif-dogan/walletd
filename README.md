@@ -1,6 +1,6 @@
 # [![Sia](https://sia.tech/assets/banners/sia-banner-expanded-walletd.png)](http://sia.tech)
 
-[![GoDoc](https://godoc.org/go.sia.tech/walletd?status.svg)](https://godoc.org/go.sia.tech/walletd)
+[![GoDoc](https://godoc.org/go.thebigfile.com/walletd?status.svg)](https://godoc.org/go.thebigfile.com/walletd)
 
 ## Overview
 

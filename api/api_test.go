@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"go.sia.tech/jape"
-	"go.sia.tech/walletd/api"
-	"go.sia.tech/walletd/persist/sqlite"
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/api"
+	"go.thebigfile.com/walletd/persist/sqlite"
+	"go.thebigfile.com/walletd/wallet"
 	"go.thebigfile.com/core/consensus"
 	"go.thebigfile.com/core/gateway"
 	"go.thebigfile.com/core/types"

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"go.sia.tech/walletd/internal/threadgroup"
+	"go.thebigfile.com/walletd/internal/threadgroup"
 	"go.thebigfile.com/core/types"
 	"go.thebigfile.com/coreutils/chain"
 	"go.uber.org/zap"

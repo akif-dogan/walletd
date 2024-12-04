@@ -15,8 +15,8 @@ import (
 	"go.uber.org/zap"
 	"lukechampine.com/frand"
 
-	"go.sia.tech/walletd/build"
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/build"
+	"go.thebigfile.com/walletd/wallet"
 	"go.thebigfile.com/core/consensus"
 	"go.thebigfile.com/core/gateway"
 	"go.thebigfile.com/core/types"

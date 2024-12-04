@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/wallet"
 	"golang.org/x/term"
 	"gopkg.in/yaml.v3"
 )

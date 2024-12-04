@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"go.sia.tech/walletd/wallet"
+	"go.thebigfile.com/walletd/wallet"
 	"go.uber.org/zap"
 	"lukechampine.com/frand"
 )
