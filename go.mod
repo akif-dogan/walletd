@@ -9,7 +9,7 @@ require (
 	go.sia.tech/jape v0.12.1
 	go.sia.tech/web/walletd v0.24.0
 	go.thebigfile.com/core v1.0.1
-	go.thebigfile.com/coreutils v0.0.3
+	go.thebigfile.com/coreutils v0.0.4
 	go.uber.org/zap v1.27.0
 	golang.org/x/term v0.26.0
 	gopkg.in/yaml.v3 v3.0.1
